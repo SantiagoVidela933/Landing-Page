@@ -11,7 +11,7 @@ const controller = new ScrollMagic.Controller();
 
 //Escena que va a ser animada (video)
 let scene = new ScrollMagic.Scene({
-    duration: 9000,
+    duration: 4000,
     triggerElement: intro,
     triggerHook: 0
 })
